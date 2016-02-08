@@ -24,3 +24,7 @@ Pairs file format here.
 
 ## Validity Judgments
 Describe meaning of validity judgments here.
+
+Link to the crowdsourcing job preview:
+http://www.l3s.de/~gadiraju/SIGIR2016/cs_job/
+
