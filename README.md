@@ -1,4 +1,4 @@
-# Dataset-Event-Validation
+# JustEvents
 A dataset for evaluation of event validation methods.
 
 Some intro here...
@@ -25,6 +25,4 @@ Pairs file format here.
 ## Validity Judgments
 Describe meaning of validity judgments here.
 
-Link to the crowdsourcing job preview:
-http://www.l3s.de/~gadiraju/SIGIR2016/cs_job/
-
+A preview of the crowdsourcing job is available [here](http://www.l3s.de/~gadiraju/SIGIR2016/cs_job/).
