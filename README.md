@@ -6,11 +6,12 @@ judgments, indicating the number of event participants acting together within th
 
 ## Citing JustEvents
 If you are using JustEvents for any purpose, please cite the following paper:
+
 A. Ceroni, U. Gadiraju, and M. Fisichella. 2017. JustEvents: A Crowdsourced Corpus for Event Validation with Strict Temporal Constraints. In Proceedings of the 39th European Conference on IR Research, ECIR 2017.
 
 If you are dealing with event validation, you are also encouraged to cite the following papers:
--A. Ceroni, U. Gadiraju, and M. Fisichella. 2015. Improving Event Detection by Automatically Assessing Validity of Event Occurrence in Text. In Proceedings of the 24th ACM International Conference on Information and Knowledge Management, CIKM 2015, pp. 1815-1818.
--A. Ceroni and M. Fisichella. 2014. Towards an Entity-Based Automatic Event Validation. In Proceedings of the 36th European Conference on IR Research, ECIR 2014, pp. 605-611.
+- A. Ceroni, U. Gadiraju, and M. Fisichella. 2015. Improving Event Detection by Automatically Assessing Validity of Event Occurrence in Text. In Proceedings of the 24th ACM International Conference on Information and Knowledge Management, CIKM 2015, pp. 1815-1818.
+- A. Ceroni and M. Fisichella. 2014. Towards an Entity-Based Automatic Event Validation. In Proceedings of the 36th European Conference on IR Research, ECIR 2014, pp. 605-611.
 
 ## Events
 Each of the 250 events is made of (i) a set of participants, and (ii) a start and end date, indicating the timespan within which the event occurred. Events have been detected by applying the algorithm introduced by Tran et al. (2014) to detect
