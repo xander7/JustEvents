@@ -4,6 +4,14 @@ Events form the functional fabric of our daily lives, and are the crucial buildi
 *JustEvents* is a dataset for evaluating the performances of event validation methods, with the main goal of fostering research advances and comparisons in this field. The dataset consists of 250 events and 6,457 candidate documents used as a base for assessing event occurrence. Events and documents are coupled in pairs and are associated with validity
 judgments, indicating the number of event participants acting together within the event timespan in the document. These validity judgments were assigned by human evaluators via crowdsourcing.
 
+## Citing JustEvents
+If you are using JustEvents for any purpose, please cite the following paper:
+A. Ceroni, U. Gadiraju, and M. Fisichella. 2017. JustEvents: A Crowdsourced Corpus for Event Validation with Strict Temporal Constraints. In Proceedings of the 39th European Conference on IR Research, ECIR 2017.
+
+If you are dealing with event validation, you are also encouraged to cite the following papers:
+-A. Ceroni, U. Gadiraju, and M. Fisichella. 2015. Improving Event Detection by Automatically Assessing Validity of Event Occurrence in Text. In Proceedings of the 24th ACM International Conference on Information and Knowledge Management, CIKM 2015, pp. 1815-1818.
+-A. Ceroni and M. Fisichella. 2014. Towards an Entity-Based Automatic Event Validation. In Proceedings of the 36th European Conference on IR Research, ECIR 2014, pp. 605-611.
+
 ## Events
 Each of the 250 events is made of (i) a set of participants, and (ii) a start and end date, indicating the timespan within which the event occurred. Events have been detected by applying the algorithm introduced by Tran et al. (2014) to detect
 events, working on the Wikipedia Edit History of more than 1.8 million Wikipedia pages representing persons, locations, artifacts, and groups. Titles of Wikipedia pages are considered as event participants in the dataset. The considered time period spans from 18th January 2011 to 7th February 2011.
