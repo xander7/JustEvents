@@ -7,7 +7,7 @@ judgments, indicating the number of event participants acting together within th
 ## Citing JustEvents
 If you are using JustEvents for any purpose, please cite the following paper:
 
-A. Ceroni, U. Gadiraju, and M. Fisichella. 2017. JustEvents: A Crowdsourced Corpus for Event Validation with Strict Temporal Constraints. In Proceedings of the 39th European Conference on IR Research, ECIR 2017.
+>A. Ceroni, U. Gadiraju, and M. Fisichella. 2017. JustEvents: A Crowdsourced Corpus for Event Validation with Strict Temporal Constraints. In Proceedings of the 39th European Conference on IR Research, ECIR 2017.
 
 If you are dealing with event validation, you are also encouraged to cite one the following papers:
 - A. Ceroni, U. Gadiraju, and M. Fisichella. 2015. [Improving Event Detection by Automatically Assessing Validity of Event Occurrence in Text](http://dl.acm.org/citation.cfm?doid=2806416.2806624). In Proceedings of the 24th ACM International Conference on Information and Knowledge Management, CIKM 2015, pp. 1815-1818.
