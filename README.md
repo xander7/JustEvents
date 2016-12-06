@@ -11,6 +11,7 @@ If you are using JustEvents for any purpose, please cite the following paper:
 
 If you are dealing with event validation, you are also encouraged to cite one the following papers:
 >A. Ceroni, U. Gadiraju, and M. Fisichella. 2015. [Improving Event Detection by Automatically Assessing Validity of Event Occurrence in Text](http://dl.acm.org/citation.cfm?doid=2806416.2806624). In Proceedings of the 24th ACM International Conference on Information and Knowledge Management, CIKM 2015, pp. 1815-1818.
+
 >A. Ceroni and M. Fisichella. 2014. [Towards an Entity-Based Automatic Event Validation](http://link.springer.com/chapter/10.1007%2F978-3-319-06028-6_64). In Proceedings of the 36th European Conference on IR Research, ECIR 2014, pp. 605-611.
 
 ## Events
